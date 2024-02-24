@@ -4,7 +4,7 @@
 
 
 
--  I am an ITI -Artificial Intelligence- a 9-month program graduate as well as a certified AWS Machine learning Specialty. I have 1+ years of experience in the field and I also have worked on freelance projects in the field. I was honoured to able to be a part of Softech International company as an intern for  3 months.
+-  I am an ITI -Artificial Intelligence- a 9-month program graduate as well as a certified AWS Machine learning Specialty. I have 2+ years of experience in the field and I also have worked on freelance projects in the field. I was honoured to able to be a part of Softech International company as an intern for  3 months.
 
 <h3 align="left">My LinkedIn :</h3>
 <p align="left">
